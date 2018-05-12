@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34039
     wikipedia: http://en.wikipedia.org/wiki/Cyril_M._Kornbluth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29908#The-Adventurer
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-04'
 gutenberg_type: Text
